@@ -10,7 +10,8 @@ Q1.你这个解压密码有什么含义吗
 答:哈？没有吧，什么？你说在什么地方看到过？绝对是巧合！我才不会那个呢                                                   
 那个…                                                  
 ciallo ∠・ω ⌒★
-![image]()
+![image](https://github.com/JingYanghao-share/JingYanghao-/blob/bee2b06aea233f3dd5147a6afd659938153f1aca/config/%E4%B8%9B%E9%9B%A8ciallo.png)
+
 Q2.这个网站有病毒吗                                      
 答:没有                                                
 Q3.为什么分享这些东西                                    
