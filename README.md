@@ -2,7 +2,7 @@ Hello，石脑中学的客人，这是一个分享资源的网站！
 ## 1.如何获取资源 
 在上方找到对应类别进入后找自己需要的点进去，点击右上角"..."选择Download file即可下载(速度可能有点慢)                   
 ## 2.下载慢怎么办                                          
-答:从(https://github.com/JingYanghao-share/JingYanghao-/blob/59f520e0744b4f7e7824fb0b35a7076b340cceb3/Tube.apk"下载加速器(右上角Download)，进入加速器点击"优选节点"选择线路"新加坡高速18"再连接既可，连不上多试几次                           
+答:从<a target="_blank" href="https://github.com/JingYanghao-share/JingYanghao-/blob/59f520e0744b4f7e7824fb0b35a7076b340cceb3/Tube.apk">此处</a>下载加速器(右上角Download)，进入加速器点击"优选节点"选择线路"新加坡高速18"再连接既可，连不上多试几次                           
 ## 3.我遇到问题了，怎么留言                                  
 答:先注册一个Github账号，然后在上方找到lssues，点New，在Add a title中写下问题标题，Add a description中写内容，下方可添加图片，一切写好之后，往下滑点击submit new issue即可          
 ## 4.常见的其他(奇怪)问题                                   
